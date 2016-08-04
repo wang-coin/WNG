@@ -1,0 +1,6 @@
+List of changes from the original NXT 1.8.3 source code
+
+Genesis.java: Updated to create a new Genesis block
+Constants.java: Updated to enable all blocks checks immediately
+http/API.java: Added wng.enableApiTestUI property to enable/disable test ui
+Wng.java: Added wng.forgerSecretPhrase to automatically start forging when starting the node
